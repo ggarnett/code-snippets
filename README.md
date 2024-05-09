@@ -24,6 +24,8 @@ Ahmed Aziz ([@AA_ziz](https://twitter.com/AA_ziz)): DevOps is just a fancy term 
 
 Yuxh:(@no_twitter):My Visitor comment
 
+Garnett (@no_twitter: My Visitor comment
+
 Alexander Frolov: I have managed to reach Chpater 2 out. Not every book can bring me so far. Thanks guys. Very appreciate your effort.
 
 Joseph : Every developer should learn how to do DevOps!
